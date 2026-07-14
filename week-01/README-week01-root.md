@@ -4,7 +4,7 @@ My name is Yaerelin Molina
 
 I signed up for Cyber Foundations because as a Cybersecurity Management and Analytics student at Virginia Tech University, I want to continue my experiential learning outside of the classroom. Especially since we need hands-on experience to apply those concepts in real-world scenarios. This program gives me the opportunity to practice my critical thinking, spark my curiosity, and apply technical communication skills apart from lectures alone.
 
-I want to be the cybersecurity professional that my team can depend on and protect data, systems, and people. I want to bring my practical skills to life and advocate for safety. 
+I want to be the cybersecurity professional that my team can depend on and protect data, systems, and people. I want to bring my practical skills to life while advocating for safety. 
 
 ---
 
