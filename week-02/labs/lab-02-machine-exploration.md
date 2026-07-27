@@ -121,11 +121,11 @@ List five processes running right now. For each, write your best guess at what i
 | launchd | Mac | The very first process Mac starts — manages and launches other background services |
 
 ```
-1. Process name: __________   What I think it does: __________
-2. Process name: __________   What I think it does: __________
-3. Process name: __________   What I think it does: __________
-4. Process name: __________   What I think it does: __________
-5. Process name: __________   What I think it does: __________
+1. Process name: Google Chrome          What I think it does: browser application 
+2. Process name: WindowServer           What I think it does: displays desktop images
+3. Process name: Activity Monitor       What I think it does: shows CPU and RAM processes
+4. Process name: kernel_task            What I think it does: communicates between operating system and hardware system. 
+5. Process name: Google Chrome Helper   What I think it does: Runs individual Chrome webpages to improve preformance. 
 ```
 
 ### Step 7 — Screenshot and Embed
