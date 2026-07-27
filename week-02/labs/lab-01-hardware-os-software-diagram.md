@@ -68,22 +68,22 @@ A computer is a stack of layers: physical hardware at the bottom, an operating s
 
 Before drawing anything, list the three layers you'll diagram and one example of what lives at each layer.
 
-**Hardware layer — one example component:** CPU
+**Hardware layer — one example component:** 
 
 ```
-(e.g., CPU, RAM, storage — your choice)
+CPU
 ```
 
-**Operating system layer — name an OS:** macOS
+**Operating system layer — name an OS:** 
 
 ```
-(e.g., Windows, Linux, macOS)
+macOS
 ```
 
-**Software layer — one example application:** web browser: Google Chrome
+**Software layer — one example application:** web browser: 
 
 ```
-(e.g., a web browser, a word processor)
+Google Chrome
 ```
 
 ### Step 2 — Sketch Your Diagram
