@@ -36,10 +36,10 @@ Lab 01 got you diagramming how hardware, OS, and software interact — in theory
 
 Open your computer's system settings (Windows: **Settings → System → About**. Mac: **Apple menu → About This Mac**) and find the exact operating system name and version you're running.
 
-**OS and version:** Sequoia 15.7.7
+**OS and version:** 
 
 ```
-(e.g., "Windows 11, version 23H2" or "macOS Sonoma 14.4")
+macOS Sequoia 15.7.7
 ```
 
 ### Step 2 — Check Your Installed RAM
