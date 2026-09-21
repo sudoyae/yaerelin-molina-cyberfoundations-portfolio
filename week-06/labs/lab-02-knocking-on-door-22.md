@@ -92,13 +92,13 @@ If the host is already recorded in your SSH `known_hosts` file, SSH may skip thi
 Record what SSH showed you — paste the first-connection prompt, or write `Host already known — fingerprint prompt not displayed.`:
 
 ```
-(paste the prompt here, or write: Host already known — fingerprint prompt not displayed.)
+Host already known
 ```
 
 Why does SSH verify a host's identity when connecting to an unfamiliar system? If you received the first-connection prompt, also explain why it was reasonable to continue in this controlled Cloud Heights lab environment:
 
 ```
-(your answer here — at least two sentences)
+SSH verifies a host’s identity to make sure I am connecting to the intended system and not an attacker’s computer pretending to be it. The first-connection prompt appeared because SSH had not saved that host’s fingerprint before. It was reasonable to continue because I was inside the controlled Cloud Heights lab and intentionally connecting to localhost, which meant the same assigned virtual machine I was already using.
 ```
 
 ### Step 3 — Enter Your Password
