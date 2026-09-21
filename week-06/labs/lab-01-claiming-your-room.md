@@ -128,7 +128,7 @@ Take a screenshot of your terminal showing the three commands and their outputs.
 
 Upload it to `assets/screenshots/week-06/` in your portfolio repository, then paste its link here:
 
-![Cloud Heights session — hostname, whoami, pwd](https://github.com/sudoyae/yaerelin-molina-cyberfoundations-portfolio/blob/main/assets/screenshots/week-06/bastion-session.png?raw=true)
+![Cloud Heights session — hostname, whoami, pwd](https://raw.githubusercontent.com/sudoyae/yaerelin-molina-cyberfoundations-portfolio/refs/heads/main/assets/screenshots/week-06/bastion-session.png)
 
 ---
 
